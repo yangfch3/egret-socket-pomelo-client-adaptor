@@ -1,6 +1,6 @@
 {
   "name": "egret-socket-pomelo-client-adaptor",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "egret WebSocket adaptor of pomelo-client",
   "main": "index.js",
   "scripts": {
