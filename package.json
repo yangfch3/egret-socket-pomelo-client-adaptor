@@ -1,0 +1,24 @@
+{
+  "name": "egret-socket-pomelo-client-adaptor",
+  "version": "1.0.0",
+  "description": "egret WebSocket adaptor of pomelo-client",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yangfch3/egret-socket-pomelo-client-adaptor.git"
+  },
+  "keywords": [
+    "egret",
+    "egret-WebSocket",
+    "pomelo-client"
+  ],
+  "author": "yangfch3",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yangfch3/egret-socket-pomelo-client-adaptor/issues"
+  },
+  "homepage": "https://github.com/yangfch3/egret-socket-pomelo-client-adaptor#readme"
+}
